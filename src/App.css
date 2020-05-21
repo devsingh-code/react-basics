@@ -13,6 +13,13 @@
   }
 }
 
+h1{
+  font-family: 'Cenzil';
+  font-size: 72px;
+  color:#05a1b6;
+
+} 
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
